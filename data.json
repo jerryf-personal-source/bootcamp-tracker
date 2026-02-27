@@ -1,0 +1,134 @@
+{
+  "meta": {
+    "version": "0.1.0",
+    "created": "2026-02-27",
+    "timezone": "America/Phoenix"
+  },
+  "days": [
+    {
+      "id": "day1",
+      "date": "2026-03-02",
+      "title": "Day 1 \u2014 Local Git mastery",
+      "drills": [
+        {
+          "id": "d1_1",
+          "text": "25 micro-commits",
+          "done": false
+        },
+        {
+          "id": "d1_2",
+          "text": "Use git add -p once",
+          "done": false
+        },
+        {
+          "id": "d1_3",
+          "text": "Use git restore to undo a file change",
+          "done": false
+        },
+        {
+          "id": "d1_4",
+          "text": "Amend a commit once",
+          "done": false
+        },
+        {
+          "id": "d1_5",
+          "text": "Delete a file and restore it",
+          "done": false
+        }
+      ],
+      "confidence": null,
+      "reflection": ""
+    },
+    {
+      "id": "day2",
+      "date": "2026-03-03",
+      "title": "Day 2 \u2014 Branching as AI containment",
+      "drills": [
+        {
+          "id": "d2_1",
+          "text": "10 branches merged via PR",
+          "done": false
+        },
+        {
+          "id": "d2_2",
+          "text": "Resolve 3 merge conflicts",
+          "done": false
+        }
+      ],
+      "confidence": null,
+      "reflection": ""
+    },
+    {
+      "id": "day3",
+      "date": "2026-03-04",
+      "title": "Day 3 \u2014 Damage control mastery",
+      "drills": [
+        {
+          "id": "d3_1",
+          "text": "Use git revert once (safe history)",
+          "done": false
+        },
+        {
+          "id": "d3_2",
+          "text": "Use git reset --soft once (local only)",
+          "done": false
+        },
+        {
+          "id": "d3_3",
+          "text": "Recover something using git reflog",
+          "done": false
+        }
+      ],
+      "confidence": null,
+      "reflection": ""
+    },
+    {
+      "id": "day4",
+      "date": "2026-03-05",
+      "title": "Day 4 \u2014 GitHub governance",
+      "drills": [
+        {
+          "id": "d4_1",
+          "text": "Enable branch protection for main",
+          "done": false
+        },
+        {
+          "id": "d4_2",
+          "text": "Use PR template + clean PR descriptions",
+          "done": false
+        },
+        {
+          "id": "d4_3",
+          "text": "Close 10 Issues via PRs (Closes #...)",
+          "done": false
+        }
+      ],
+      "confidence": null,
+      "reflection": ""
+    },
+    {
+      "id": "day5",
+      "date": "2026-03-06",
+      "title": "Day 5 \u2014 CI + Releases",
+      "drills": [
+        {
+          "id": "d5_1",
+          "text": "Add GitHub Action (push + PR)",
+          "done": false
+        },
+        {
+          "id": "d5_2",
+          "text": "Cut 3 tags/releases with notes",
+          "done": false
+        },
+        {
+          "id": "d5_3",
+          "text": "Fix a failing CI run",
+          "done": false
+        }
+      ],
+      "confidence": null,
+      "reflection": ""
+    }
+  ]
+}
