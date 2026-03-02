@@ -11,6 +11,7 @@
 - Use `git add -p` at least once
 - Use `git restore` to undo a file change
 - Amend a commit once
+- Run git diff before every commit
 
 **Break & recover**
 - Delete a file; restore it
@@ -25,6 +26,7 @@
 **Drills**
 - 10 branches + PRs
 - 3 merge conflicts resolved
+- Use draft PRs for mid-experiment work
 
 **Deliverable (app)**
 - v0.2.0: Checkboxes + save progress to `data.json`

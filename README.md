@@ -24,3 +24,6 @@ Progress is stored locally in `data.json`.
 
 > Tip: Commit `data.json` if you want progress history synced across machines.
 > If you prefer it private to your machine, add it to `.gitignore`.
+
+Day 1 - Git Bootcamp in progress.
+Practicing disciplined commit habits.
