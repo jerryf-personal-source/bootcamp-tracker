@@ -11,6 +11,7 @@
 - Use `git add -p` at least once
 - Use `git restore` to undo a file change
 - Amend a commit once
+- Run git diff before every commit
 
 **Break & recover**
 - Delete a file; restore it
