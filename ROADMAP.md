@@ -26,6 +26,7 @@
 **Drills**
 - 10 branches + PRs
 - 3 merge conflicts resolved
+- Use draft PRs for mid-experiment work
 
 **Deliverable (app)**
 - v0.2.0: Checkboxes + save progress to `data.json`
