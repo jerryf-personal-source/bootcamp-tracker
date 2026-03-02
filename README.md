@@ -26,3 +26,4 @@ Progress is stored locally in `data.json`.
 > If you prefer it private to your machine, add it to `.gitignore`.
 
 Day 1 - Git Bootcamp in progress.
+Practicing disciplined commit habits.
