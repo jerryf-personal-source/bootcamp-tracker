@@ -12,6 +12,7 @@
 - Use `git restore` to undo a file change
 - Amend a commit once
 - Run git diff before every commit
+- Review diffs slowly before merging PRs
 
 **Break & recover**
 - Delete a file; restore it
